@@ -2,12 +2,12 @@
 
 The project uses pre-trained models from hugging face to generate captions for the image provided by the uesr.
 
-The Models Used Are:
+## The Models Used Are:
 - ViT + GPT-2 : https://huggingface.co/nlpconnect/vit-gpt2-image-captioning
 - BLIP - https://huggingface.co/Salesforce/blip-image-captioning-large
 - Library Used to deploy is StreamLit
 
-Usage ?
+## Usage 
 ```
 streamlit run Final.py
 or
