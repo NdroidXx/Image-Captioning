@@ -10,4 +10,8 @@ The Models Used Are:
 Usage ?
 ```
 streamlit run Final.py
+or
+streamlit run Deploy_BLIP.py
+or 
+streamlit run Deploy_ViT.py
 ```
