@@ -8,5 +8,6 @@ The Models Used Are:
 - Library Used to deploy is StreamLit
 
 Usage ?
-
-<streamlit run Final.py>
+'''
+streamlit run Final.py
+'''
